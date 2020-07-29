@@ -10,5 +10,9 @@
 
    https://ethanli.blog.csdn.net/
 
- 
+2. 解决每次github提交都需要输入密码的问题
+
+   https://blog.csdn.net/gentlecp/article/details/89296614
+
+   
 
