@@ -35,6 +35,8 @@
    https://blog.csdn.net/Zafir_410/article/details/74357544
 
    https://blog.csdn.net/qq_41080854/article/details/88609795
+   
+   
 
 2020.08.17
 
@@ -49,6 +51,49 @@
    https://arxiv.org/pdf/1710.07457.pdf
 
    https://openaccess.thecvf.com/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf
+
+   
+
+2020.08.18
+
+1. 知乎上一个关于深度学习方面较好的专栏的总结
+
+   https://www.zhihu.com/question/414750781/answer/1415517477
+
+2. 从图像相似度评价更新上可以着力的点
+
+   （1）图像配准相关
+
+   - 一个可能可以参考的blog（暂时还没有仔细看），下面的blog主要是讲解医学图像中的图像配准
+
+
+   https://blog.csdn.net/weixin_41699811
+
+   一个与图像配准相关的论文总结的一个repo
+
+   https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration
+
+   （2）
+
+3. 一篇关于新视角合成以及三维重建的文章，NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+
+   https://arxiv.org/pdf/2003.08934.pdf
+
+4. 一篇关于instance相似性的文章，Quasi-Dense Instance Similarity Learning
+
+   https://arxiv.org/pdf/2006.06664.pdf
+
+5. 语义分割该如何走下去，一个知乎上很好的问题
+
+   https://www.zhihu.com/question/390783647/answer/1245032140
+
+6. 一篇较好的关于点云聚合的文章，A Closer Look at Local Aggregation Operators in Point Cloud Analysis，该文已中ECCV2020
+
+   https://arxiv.org/pdf/2007.01294.pdf
+
+   
+
+   
 
    
 
