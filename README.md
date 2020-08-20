@@ -88,12 +88,17 @@
    https://www.zhihu.com/question/390783647/answer/1245032140
 
 6. 一篇较好的关于点云聚合的文章，A Closer Look at Local Aggregation Operators in Point Cloud Analysis，该文已中ECCV2020
-
    https://arxiv.org/pdf/2007.01294.pdf
 
-   
 
-   
+
+2020.08.20   
+
+1. 一个关于深度估计较好的综述性文章
+
+   https://arxiv.org/pdf/2004.08566.pdf
+
+
 
    
 
